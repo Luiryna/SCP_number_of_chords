@@ -1,2 +1,3 @@
 # SCP_number_of_chords
-for the honor of ostis
+
+Найти количество хорд в неориетированном графе
